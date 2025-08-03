@@ -23,7 +23,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Parsapakdellahidji74&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 ---
@@ -31,11 +31,10 @@
 ### 🔥 Most Used Languages:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parsapakdellahidji74&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 📫 How to reach me:
-- LinkedIn: [Your LinkedIn link]
-- Email: [your@email.com]
+- Email: [parsapakdel290@gmail.com]
